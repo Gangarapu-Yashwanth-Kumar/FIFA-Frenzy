@@ -63,4 +63,4 @@ Contributions are what make the open-source community such an amazing place to l
 5.  **Open a Pull Request**
 
 ## 🙏 Thank You
-Thank you for checking out this project! Your interest and support are greatly appreciated.
+Thank you for checking out this project! Your interest and support are greatly appreciated..
